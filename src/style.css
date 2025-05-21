@@ -1,0 +1,10 @@
+.editor-area {
+  border: 1px solid #ccc;
+  padding: 10px;
+  min-height: 200px;
+  max-width: 600px;
+  margin: auto;
+}
+.editor-content:focus {
+ outline: 0px !important;
+}
